@@ -24,7 +24,6 @@ Autenticación JWT, CRUD de productos y validación de datos.
 1. Clonar el repositorio
    ```bash
    git clone https://github.com/fede2010/Proyecto-Final-Node.git
-   cd "Proyecto-Final-Node/src"
    ```
 2. Instalar dependencias
    ```bash
